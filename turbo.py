@@ -1,0 +1,1 @@
+#tutaj będzie kod który poprawia prędkosc
