@@ -1,5 +1,4 @@
-#test lokalnie
-import os #test lokalnie
+import os
 import base64
 from cryptography.fernet import Fernet
 
