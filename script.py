@@ -1,4 +1,4 @@
-import os
+import os #zmiana serwer
 import base64
 from cryptography.fernet import Fernet
 
